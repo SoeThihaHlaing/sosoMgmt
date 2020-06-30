@@ -1,5 +1,8 @@
 package njpi.soso.servicePackage;
-
+/**
+ * @author soethihahlaing
+ * @mail soethihahlaing@gmail.com
+ */
 import java.io.Serializable;
 
 import njpi.soso.model.Common;
