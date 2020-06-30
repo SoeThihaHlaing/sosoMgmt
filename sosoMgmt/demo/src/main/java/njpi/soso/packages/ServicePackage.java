@@ -1,5 +1,8 @@
 package njpi.soso.servicePackage;
-
+/**
+ * @author soethihahlaing
+ * @mail soethihahlaing@gmail.com
+ */
 public  abstract class ServicePackage
 {
 	 private double price;
