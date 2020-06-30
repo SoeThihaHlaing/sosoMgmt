@@ -1,5 +1,8 @@
 package njpi.gittest.utils;
-
+/**
+ * @author soethihahlaing
+ * @mail soethihahlaing@gmail.com
+ */
 import njpi.gittest.model.Common;
 import njpi.gittest.model.ConsumInfo;
 import njpi.gittest.model.MobileCard;
