@@ -1,5 +1,8 @@
 package njpi.gittest.model;
-
+/**
+ * @author soethihahlaing
+ * @mail soethihahlaing@gmail.com
+ */
 import java.io.Serializable;
 
 
