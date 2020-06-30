@@ -1,5 +1,8 @@
 package njpi.soso.test;
-
+/**
+ * @author soethihahlaing
+ * @mail soethihahlaing@gmail.com
+ */
 import njpi.soso.model.Common;
 import njpi.soso.model.MobileCard;
 import njpi.soso.utils.CardUtil;
